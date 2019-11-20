@@ -2,7 +2,7 @@
 
 In this project I analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles.
 
-## Introduction
+### Introduction
 
 The goal of the project is to do recommendation of the articles that are most pertinent to a specific user.
 
@@ -15,6 +15,17 @@ III. User-User Based Collaborative Filtering
 IV. Content Based Recommendations
 V. Matrix Factorization
 
-## License
+### Run
+In a terminal or command window, navigate to the top-level project directory Recommendations-with-IBM/ (that contains this README) and run one of the following commands:
+
+ipython notebook Recommendations_with_IBM.ipynb
+
+or
+
+jupyter notebook Recommendations_with_IBM.ipynb
+
+This will open the iPython Notebook software and project file in your browser.
+
+### License
 
 Licensed under the MIT license.

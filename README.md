@@ -14,3 +14,7 @@ II. Rank Based Recommendations
 III. User-User Based Collaborative Filtering
 IV. Content Based Recommendations
 V. Matrix Factorization
+
+## License
+
+Licensed under the MIT license.
